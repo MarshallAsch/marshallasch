@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marshall</h1>
 <h3 align="center">A masters student, backend developer, DevOps lover, and tinkerer</h3>
 
-- 🔭 I’m currently working on [Botomir](https://github.com/SoorajModi/Botomir), [liquidctl](https://github.com/liquidctl/liquidctl), and [my NS3 simulation code](https://github.com/MarshallAsch/saf)
+- 🔭 I’m currently working on [Botomir](https://github.com/SoorajModi/Botomir), [liquidctl](https://github.com/liquidctl/liquidctl), and [my ns-3 simulation code](https://github.com/MarshallAsch/rhpman)
 
-- 🌱 I’m currently learning **Terraform, Spring boot, Discordjs, NS3 simulations**
+- 🌱 I’m currently learning **Terraform and Spring boot**
 
 - 👯 I’m looking to collaborate on **anything, I'm almost always willing to collaborate on a new project**
 
@@ -11,7 +11,7 @@
 
 - 📝 I occasionally write articles on [https://marshallasch.ca/blogs](https://marshallasch.ca/blogs)
 
-- 💬 Ask me about **NS3, Mobile ad hoc networks**
+- 💬 Ask me about **ns-3, Mobile ad hoc networks**
 
 - 📄 Know about my experiences [https://marshallasch.ca/resume](https://marshallasch.ca/resume)
 
